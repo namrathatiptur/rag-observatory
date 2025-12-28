@@ -1,0 +1,30 @@
+# Core RAG Framework
+llama-index>=0.10.0
+llama-index-vector-stores-chroma>=0.1.0
+llama-index-embeddings-huggingface>=0.1.0
+
+# Vector Database
+chromadb>=0.4.0
+
+# Embeddings
+sentence-transformers>=2.2.0
+torch>=2.0.0
+
+# Dashboard
+streamlit>=1.28.0
+plotly>=5.17.0
+
+# Data Processing
+pandas>=2.0.0
+numpy>=1.24.0
+openpyxl>=3.1.0  # For Excel file support
+pyarrow>=14.0.0   # For Parquet/Feather support
+pypdf>=3.0.0      # For PDF file support
+
+# Utilities
+python-dotenv>=1.0.0
+tqdm>=4.66.0
+
+# Testing (optional)
+pytest>=7.4.0
+
