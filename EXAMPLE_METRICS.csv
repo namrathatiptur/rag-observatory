@@ -1,0 +1,12 @@
+query,avg_relevance,query_coverage,answer_grounding_rate,context_usage_rate,query_answer_similarity,retrieval_diversity,answer_specificity,num_chunks_retrieved,timestamp
+"What is machine learning?",0.85,0.75,0.70,0.40,0.75,0.60,0.50,5,2024-12-17T10:00:00
+"Explain deep learning",0.82,0.78,0.72,0.42,0.78,0.58,0.52,5,2024-12-17T10:15:00
+"What is Python?",0.88,0.80,0.75,0.45,0.80,0.55,0.55,4,2024-12-17T10:30:00
+"Tell me about RAG",0.79,0.72,0.68,0.38,0.72,0.62,0.48,6,2024-12-17T10:45:00
+"What is NLP?",0.86,0.77,0.73,0.41,0.77,0.59,0.51,5,2024-12-17T11:00:00
+"What is AI?",0.90,0.82,0.78,0.48,0.82,0.57,0.58,5,2024-12-17T11:15:00
+"Explain neural networks",0.81,0.74,0.71,0.40,0.74,0.61,0.49,5,2024-12-17T11:30:00
+"What is data science?",0.84,0.76,0.74,0.43,0.76,0.60,0.53,5,2024-12-17T11:45:00
+"How does GPT work?",0.77,0.70,0.65,0.35,0.70,0.64,0.45,6,2024-12-17T12:00:00
+"What is computer vision?",0.83,0.75,0.72,0.41,0.75,0.59,0.50,5,2024-12-17T12:15:00
+
